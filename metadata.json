@@ -1,0 +1,8 @@
+{
+  "name": "Melodia CCB APK 1.0.0",
+  "description": "Gestão inteligente de músicos, turmas, aulas, frequências, escalas de cultos e raio-x completo para orquestras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

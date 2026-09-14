@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#b45309"/>
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="22" fill="url(#bgGrad)"/>
+  <circle cx="50" cy="50" r="42" stroke="url(#goldGrad)" stroke-width="2.5" fill="none" opacity="0.6"/>
+  <!-- Musical Clef & Staff elements -->
+  <path d="M52 20 C48 20 44 24 44 29 C44 35 49 39 52 42 C56 46 58 50 58 56 C58 64 51 70 43 70 C36 70 32 66 32 60 C32 54 36 50 41 50 C44 50 46 52 46 55 C46 57 44 59 42 59 C40 59 39 58 39 56 C39 55 40 54 41 54 C38 54 36 56 36 59 C36 63 39 66 44 66 C49 66 54 62 54 55 C54 49 51 45 47 41 C43 37 40 33 40 27 C40 21 45 16 52 16 C55 16 57 17 59 19 L56 22 C55 21 53 20 52 20 Z" fill="url(#goldGrad)"/>
+  <circle cx="52" cy="78" r="4.5" fill="url(#goldGrad)"/>
+</svg>
